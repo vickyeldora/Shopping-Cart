@@ -1,5 +1,3 @@
-# Graded Challenge 1
-
 _Program ini dibuat agar dapat menambahkan item ke dalam sebuah shoppingcart, lalu dapat menghapus item, melihat isi keranjang yang terdapat berbagai macam item, menjumlah total harga dari item yang telah dimasukan.
 dibuat untuk mempermudah kegiatan berbelanja._
 
