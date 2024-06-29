@@ -3,6 +3,9 @@ dibuat untuk mempermudah kegiatan berbelanja._
 
 ---
 
+***[FLOWCART}**__(https://miro.com/welcomeonboard/dU9uSHg4QnlVWUxNT1ZObEhCd3g5SFF5bmdJM1ZvUkhiVktDaVFFcnJFQWFVYzE3Q3lSSFBTSkNTOWdobWJDb3wzNDU4NzY0NTgyMjc5MDIyNTIxfDI=?share_link_id=166669739385)__
+---
+
 ## Assignment Objectives
 
 konsep Conditionals, Loops, Functions, Object-Oriented Programming, Python Unit Test, dan Computational Thinking sebagai berikut:
