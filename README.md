@@ -3,21 +3,23 @@ dibuat untuk mempermudah kegiatan berbelanja._
 
 ---
 
-__[FLOWCART](https://miro.com/welcomeonboard/dU9uSHg4QnlVWUxNT1ZObEhCd3g5SFF5bmdJM1ZvUkhiVktDaVFFcnJFQWFVYzE3Q3lSSFBTSkNTOWdobWJDb3wzNDU4NzY0NTgyMjc5MDIyNTIxfDI=?share_link_id=166669739385)__
----
 
 ## Assignment Objectives
 
 konsep Conditionals, Loops, Functions, Object-Oriented Programming, Python Unit Test, dan Computational Thinking sebagai berikut:
 
-- Mampu menerapkan conditional if pada sebuah kasus
-- Mampu menerapkan _while_ loop
-- Mampu membuat object menggunakan class
-- Mampu membuat method pada object dengan function
-- Mampu melakukan pengujian code yang sudah dibuat dengan `unittest`
-- Mampu menggambarkan flowchart
+- Menerapkan conditional if pada sebuah kasus
+- Menerapkan _while_ loop
+- Membuat object menggunakan class
+- Membuat method pada object dengan function
+- Melakukan pengujian code yang sudah dibuat dengan `unittest`
+- Menggambarkan flowchart
 
 ---
+
+__[FLOWCART](https://miro.com/welcomeonboard/dU9uSHg4QnlVWUxNT1ZObEhCd3g5SFF5bmdJM1ZvUkhiVktDaVFFcnJFQWFVYzE3Q3lSSFBTSkNTOWdobWJDb3wzNDU4NzY0NTgyMjc5MDIyNTIxfDI=?share_link_id=166669739385)__
+---
+
 
 **Contoh program interface:**
 
@@ -101,5 +103,3 @@ Menu:
 Sampai Jumpa! Terima kasih sudah belanja di Toko Makmur.
 
 ```
-
----
